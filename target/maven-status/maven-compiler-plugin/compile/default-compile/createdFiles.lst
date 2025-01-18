@@ -1,0 +1,16 @@
+com\mrhelp4u\MrhelpApplication.class
+com\mrhelp4u\dto\CustomerRegistrationResponceDto.class
+com\mrhelp4u\service\MerchantRegistrationServiceImpl.class
+com\mrhelp4u\entity\CustomerRegistrationEntity.class
+com\mrhelp4u\service\CustomerRegistrationService.class
+com\mrhelp4u\dao\RegistrationDaoImpl.class
+com\mrhelp4u\dao\MerchantRegistrationRepository.class
+com\mrhelp4u\dto\MerchantRegistrationResponceDto.class
+com\mrhelp4u\service\CustomerRegistrationServiceImpl.class
+com\mrhelp4u\entity\MerchantRegistrationEntity.class
+com\mrhelp4u\dao\RegistrationDao.class
+com\mrhelp4u\dao\CustomerRegistrationRepository.class
+com\mrhelp4u\service\MerchantRegistrationService.class
+com\mrhelp4u\model\CustomerRegistrationRequest.class
+com\mrhelp4u\model\MerchantRegistrationRequest.class
+com\mrhelp4u\controller\MrHelp4UController.class
