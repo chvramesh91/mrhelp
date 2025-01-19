@@ -24,7 +24,7 @@ public class RegistrationDaoImpl implements RegistrationDao {
 
     @Override
     public BigInteger merchantSave(MerchantRegistrationEntity entity) {
-//        MerchantRegistrationEntity merchantSave = merchantRegistrationRepository.save(entity);
-        return null;
+        MerchantRegistrationEntity merchantSave = merchantRegistrationRepository.save(entity);
+        return merchantSave.getMerchantId();
     }
 }
